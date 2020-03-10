@@ -1,4 +1,4 @@
-# リーダブルコード1冊を完結にまとめてくださっているサイト
+# リーダブルコード1冊を簡潔にまとめてくださっているサイト
 
 ## Live Demo
 https://solareenlo.com/The-Art-of-Readable-Code/
